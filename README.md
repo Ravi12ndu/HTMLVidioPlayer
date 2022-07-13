@@ -6,7 +6,7 @@ HTML5 video default player customization By Achu biju
 
 **Option one:** One-click deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Achu2234/HTMLVidioPlayer)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ravi12ndu/HTMLVidioPlayer)
 
 **Option two:** Manual clone
 
